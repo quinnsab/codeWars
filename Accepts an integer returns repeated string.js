@@ -2,7 +2,7 @@
 // Examples (input -> output)
 // 6, "I"     -> "IIIIII"
 // 5, "Hello" -> "HelloHelloHelloHelloHello"
-// https://losseff.xyz/katas/006-string-repeat/javascript/
+
 function repeatStr (n, s) {
     let newString = []
     for(let i = 0; i < n; i++) {

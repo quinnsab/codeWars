@@ -7,7 +7,7 @@
 // "605"  --> 605
 // "1405" --> 1405
 // "-7" --> -7
-// https://bokki.org/codewars/8kyu/8kyu-convert-a-string-to-a-number/
+
 var stringToNumber = function(str){
      // put your code here
      return +str
